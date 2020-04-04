@@ -1,6 +1,6 @@
 ---
-title: Reading List
-subtitle: a list of books I read
+title: Wedding List
+subtitle: Wedding List for us!
 layout: "page"
 icon: fa-book
 order: 3
