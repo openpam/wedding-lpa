@@ -4,7 +4,7 @@ icon: fa-clock
 order: 3
 ---
 
-<h2>Le Samedi</h2>
+<h3>Le Samedi</h3>
 
 **16h00** : Cérémonie Laïque
 
@@ -14,6 +14,6 @@ order: 3
 
 **Minuit** : Clubbing
 
-<h2>Le Dimanche</h2>
+<h3>Le Dimanche</h3>
 
 **10h30** : Brunch
