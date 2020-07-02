@@ -1,6 +1,6 @@
 ---
 title: Le lieu
-icon: fa-check
+icon: fa-map-marker-alt
 order: 2
 ---
 
