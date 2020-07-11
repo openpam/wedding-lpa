@@ -7,6 +7,10 @@ icon: fa-grin-hearts
 order: 1
 ---
 
-**Oui c'est plié !**
+# Oui c'est plié !
 
-Et on plie ça le 16 janvier 2021, 16h.
+
+## Léa & Pierre-Antoine.
+
+
+Rendez-vous le samedi 16 janvier 2021 à 16h.
