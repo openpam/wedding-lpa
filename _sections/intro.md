@@ -7,10 +7,7 @@ icon: fa-grin-hearts
 order: 1
 ---
 
-# Oui c'est plié !
-
-
-## Léa & Pierre-Antoine.
+## Léa & Pierre-Antoine
 
 
 Rendez-vous le samedi 16 janvier 2021 à 16h.
