@@ -99,10 +99,12 @@
 	h2 {
 		font-size: 2em;
 		letter-spacing: -1px;
+		font-weight: bold;
 	}
-
+	
 	h3 {
 		font-size: 1.5em;
+		font-weight: bolder;
 	}
 
 	header {
@@ -187,7 +189,7 @@
 	}
 
 	p, ul, ol, dl, table {
-		margin-bottom: 2em;
+		// margin-bottom: 2em;
 	}
 
 	dl {
