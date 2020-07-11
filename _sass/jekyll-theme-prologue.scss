@@ -538,13 +538,21 @@
 		a {
 			border: 0;
 		}
-
+		@font-face {
+			font-family: ParissHillton-normal;
+			src: url(ParissHillton-OVMy6.otf);
+		  }
+		@font-face {
+		font-family: ParissHillton-italic;
+		src: url(ParissHilltonItalic-EapyW.otf);
+		}
 		h1 {
 			position: relative;
 			color: #fff;
 			font-weight: 600;
 			font-size: 1em;
 			line-height: 1em;
+			font-family: ParissHillton-normal;
 		}
 
 		p {
