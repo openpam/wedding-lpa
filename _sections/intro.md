@@ -10,4 +10,10 @@ order: 1
 ## Léa & Pierre-Antoine
 
 
-Rendez-vous le samedi 16 janvier 2021 à 16h.
+Et oui, c’est plié ! Nous sommes très heureux·se de pouvoir partager ce moment avec vous tou·te·s.
+
+Sur ce site, vous trouverez toutes les indications utiles pour faciliter votre venue et faire en sorte que vous profitiez au maximum de ce beau week-end.
+
+Si vous avez besoin de plus de précisions et/ou renseignements, n’hésitez pas à nous contacter via la rubrique « Contact » de notre site ou via nos adresses mails que vous retrouverez sur nos faire-part.
+
+Bonne visite !
