@@ -105,8 +105,7 @@
 	src: url(ParissHilltonItalic-EapyW.otf);
 	}
 	h2 {
-		font-size: 2em;
-		letter-spacing: -1px;
+		font-size: 3em;
 		font-weight: bold;
 		font-family: 'Montez', cursive;
 	}
@@ -675,8 +674,12 @@
 				color: #ddd;
 				color: rgba(255, 255, 255, 0.75);
 
-				h2, h3, h4, h5, h6 {
+				h3, h4, h5, h6 {
 					color: inherit;
+				}
+
+				h2 {
+					color: #fbe6af;
 				}
 
 				strong {
