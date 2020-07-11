@@ -8,7 +8,7 @@ order: 3
 
 **16h00** : Cérémonie Laïque
 
-**17h30** : Vins d'honneur
+**17h30** : Vin d'honneur
 
 **19h30** : Dîner
 
