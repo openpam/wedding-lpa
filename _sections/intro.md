@@ -14,6 +14,6 @@ Et oui, c’est plié ! Nous sommes très heureux·se de pouvoir partager ce mom
 
 Sur ce site, vous trouverez toutes les indications utiles pour faciliter votre venue et faire en sorte que vous profitiez au maximum de ce beau week-end.
 
-Si vous avez besoin de plus de précisions et/ou renseignements, n’hésitez pas à nous contacter via la rubrique « Contact » de notre site ou via nos adresses mails que vous retrouverez sur nos faire-part.
+Si vous avez besoin de plus de précisions et/ou renseignements, n’hésitez pas à nous contacter via la rubrique « Contact » de notre site ou via nos adresses mails que vous retrouverez sur nos faire-parts.
 
 Bonne visite !
