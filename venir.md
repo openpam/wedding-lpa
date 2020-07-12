@@ -5,7 +5,7 @@ icon: fa-horse
 order: 2
 ---
 
-Pour se rendre sur les lieux, deux choix se proposent à vous :
+Pour se rendre sur les lieux, trois choix se proposent à vous :
 
 **En voiture :** une fois arrivé·e·s à La Factory, vous pourrez vous garer sur le [parking du stade](), accolé au bâtiment.
 
