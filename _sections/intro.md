@@ -13,7 +13,7 @@ order: 1
 Et oui, c’est plié ! Nous sommes très heureux·se de pouvoir partager ce moment avec vous tou·te·s.
 
 Mais en raison de la crise sanitaire, notre cérémonie est reportée au 
-<center><h1>samedi 8 janvier 2022</h1></center>
+### samedi 8 janvier 2022
 
 Sur ce site, vous trouverez toutes les indications utiles pour faciliter votre venue et faire en sorte que vous profitiez au maximum de ce beau week-end.
 
